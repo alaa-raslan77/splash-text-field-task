@@ -195,7 +195,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   keyType: TextInputType.phone,
                   isObscure: false),
               SizedBox(
-                height: 30,
+                height:
+                30,
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
